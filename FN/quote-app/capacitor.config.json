@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.quoteapp",
+  "appName": "Quote App",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
